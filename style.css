@@ -1,0 +1,86 @@
+/* STYLE SECTIONING TAGS */
+* { 
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: white; 
+  font-family: 'abril fatface';
+  font-size: 22px
+}
+
+/* STYLYNG TEXT */
+
+h1 {
+  color: navy;
+}
+
+
+
+/* STYLYNG IMAGES */
+img{
+  border:solid;
+  border-color:#FF9912;
+}
+
+/* STYLYNG NAV BAR */
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #56CCEC;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding:17px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+
+
+/* STYLE BUTTONS */
+
+/* STYLING TEXT */
+h1{
+  font-family:'Abril Fatface', serif;
+  font-size:46px;
+}
+
+h2 {
+  color:#219ebc;
+}
+
+h3 {
+  color: #61B0B7;
+}
+
+/* STYLING FACT GENERATOR*/
+.healthcareFacts {
+  background:#FF9912;
+  border-radius: 10px;
+  border-style:none;
+  padding: 15px;
+  margin-top: 35px;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: monospace;
+  font-size:0.9em;
+  color:white;
+
+}
+
+
